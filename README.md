@@ -16,7 +16,11 @@
 
 - https://github.com/MartianInStardust/HectorSlamForRplidar
 
+- https://github.com/ros-drivers/rosserial
+
 ### Sites :
+
+- https://wiki.ros.org/tu-darmstadt-ros-pkg
 
 - https://yoraish.com/2021/09/08/a-full-autonomous-stack-a-tutorial-ros-raspberry-pi-arduino-slam/
 
